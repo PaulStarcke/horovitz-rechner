@@ -1,0 +1,11 @@
+HOROVITZ-RECHNER – GitHub Pages
+
+1. Auf github.com ein kostenloses Konto anlegen und anmelden.
+2. Neues öffentliches Repository erstellen, z. B. horovitz-rechner.
+3. Die Dateien aus diesem ZIP ENTPACKEN und alle Dateien (index.html, sw.js, manifest.webmanifest, icon-*.png) in die oberste Ebene des Repositorys hochladen. Nicht nur die ZIP-Datei hochladen.
+4. Im Repository: Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+5. Nach Veröffentlichung die dort angezeigte HTTPS-Adresse in Safari auf dem iPhone öffnen.
+6. In Safari Teilen > Zum Home-Bildschirm > Hinzufügen.
+7. Die App einmal mit Internetverbindung öffnen, damit die Offline-Dateien zwischengespeichert werden.
+
+Hinweis: GitHub Pages ist öffentlich; keine Patientendaten in das Repository hochladen. Die Rechner-Eingaben werden nicht übertragen. FiO2 bei O2-Gabe ist nur eine grobe Schätzung.
